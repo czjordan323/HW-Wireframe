@@ -38,6 +38,7 @@ margin: auto;
     border: solid;
     padding: 50px;
     width: 35%;
+    margin-right: auto;
    
       
       
@@ -50,4 +51,37 @@ margin: auto;
     background: #777;
     padding: 18%;
     margin: auto;
+}
+
+.h1 {
+    background: #ebebeb;
+    text-align: center;
+    border: solid;
+    color: #777;
+}
+
+p {
+    background: #ebebeb;
+    text-align: center;
+    border: solid;
+    color: #777; 
+    margin-bottom: auto; 
+    
+}
+
+.aside {
+    background: #ebebeb;
+    text-align: center;
+    border: solid;
+    padding: 50px;
+    width: 35%;
+    margin-left: auto;
+}
+
+footer {
+    margin: auto;
+    background: #ebebeb;
+    text-align: center;
+    border: solid;
+    padding: 26px;  
 }
