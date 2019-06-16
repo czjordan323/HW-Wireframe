@@ -1,0 +1,53 @@
+body {
+color: #777;
+background: #777;
+width: 960px;
+font-size: 18px;
+text-align: center;
+margin: auto;
+}
+
+.container {
+    margin: auto;
+    max-width: 500px;
+}
+
+
+.Header {
+  margin: auto;
+  background: #ebebeb;
+  text-align: center;
+  border: solid;
+  padding: 26px;
+}
+
+.Nav {
+  margin: auto;
+  background: #ebebeb;
+  text-align: center;
+  border: solid;
+  padding: 26px;
+
+}
+
+.section {
+    
+    
+    background: #ebebeb;
+    text-align: center;
+    border: solid;
+    padding: 50px;
+    width: 35%;
+   
+      
+      
+}
+
+
+
+.article {
+    color: #ebebeb;
+    background: #777;
+    padding: 18%;
+    margin: auto;
+}
