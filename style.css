@@ -30,27 +30,38 @@ margin: auto;
 
 }
 
-.section {
+.mid-section {
     
     
     background: #ebebeb;
     text-align: center;
     border: solid;
-    padding: 50px;
-    width: 35%;
-    margin-right: auto;
+    width: 493px;
+    margin: auto;
+    height: 150px;
+    padding: 10px 0px 2px 0px;
+    font-size: 18px;
    
       
       
 }
 
+h1 {
+    font-size: 18px;
+}
 
 
-.article {
+
+.section {
     color: #ebebeb;
     background: #777;
-    padding: 18%;
-    margin: auto;
+    padding: 10%;
+    margin: 30px;
+    text-align: center;
+    height: 45px;
+    position: relative;
+    display: inline-block;
+    float: left;
 }
 
 .h1 {
@@ -69,13 +80,27 @@ p {
     
 }
 
+.mid-section {
+    width: 493px;
+    border: 1px solid red;
+    margin: 0 auto;
+    text-align: center;
+    height: 220px;
+    display: inline-block;
+}
 .aside {
     background: #ebebeb;
     text-align: center;
+    margin-right: 10px;
+    margin-top: -175px;
     border: solid;
-    padding: 50px;
-    width: 35%;
-    margin-left: auto;
+    width: 180px;
+    height: 149px;
+    position: relative;
+    display: inline-block;
+    float: right;
+    clear: both;
+    
 }
 
 footer {
